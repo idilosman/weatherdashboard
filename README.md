@@ -5,6 +5,7 @@ When the user searches for a location, they are presented with the current weath
 
 links:
 https://github.com/idilosman/weatherdashboard
+
 https://idilosman.github.io/weatherdashboard/
 
 ![Weather Dashboard Webpage](./assets/images/Screenshot%202022-06-03%20at%2016.51.28.png)
